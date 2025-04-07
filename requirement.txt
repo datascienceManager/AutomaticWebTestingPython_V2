@@ -1,0 +1,5 @@
+browser-use
+pydantic
+google-ai-generativelanguage
+langchain_google_genai
+langchain-openai
